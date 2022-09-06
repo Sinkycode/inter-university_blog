@@ -6,9 +6,24 @@
     "start": "next start"
   },
   "dependencies": {
+    "@emailjs/browser": "^3.7.0",
+    "@fortawesome/fontawesome-svg-core": "^6.1.2",
+    "@fortawesome/free-regular-svg-icons": "^6.1.2",
+    "@fortawesome/free-solid-svg-icons": "^6.1.2",
+    "@fortawesome/react-fontawesome": "^0.2.0",
+    "axios": "^0.27.2",
+    "emailjs-com": "^3.2.0",
+    "graphql": "^16.6.0",
+    "graphql-request": "^4.3.0",
+    "html-react-parser": "^3.0.4",
+    "moment": "^2.29.4",
     "next": "latest",
     "react": "18.1.0",
-    "react-dom": "18.1.0"
+    "react-dom": "18.1.0",
+    "react-hook-form": "^7.34.2",
+    "react-multi-carousel": "^2.8.2",
+    "sass": "^1.54.5",
+    "smtp": "^0.1.4"
   },
   "devDependencies": {
     "@types/node": "17.0.35",
